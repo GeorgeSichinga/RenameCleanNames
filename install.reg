@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+; Adds "Rename with Clean Names" to the right-click menu of every folder.
+; Update the path below if you publish the exe somewhere other than
+; C:\Tools\RenameCleanNames\RenameCleanNames.exe
+
+[HKEY_CLASSES_ROOT\Directory\shell\RenameWithCleanNames]
+@="Rename with Clean Names"
+
+[HKEY_CLASSES_ROOT\Directory\shell\RenameWithCleanNames\command]
+@="\"C:\\Tools\\RenameCleanNames\\RenameCleanNames.exe\" \"%1\""
