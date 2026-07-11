@@ -1,2 +1,0 @@
-C:\Users\HP\Documents\projects\AutoRenamingFiles\bin\Release\net8.0\win-x64\publish\RenameCleanNames.pdb
-C:\Users\HP\Documents\projects\AutoRenamingFiles\bin\Release\net8.0\win-x64\publish\RenameCleanNames.exe

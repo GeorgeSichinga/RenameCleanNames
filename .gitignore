@@ -1,0 +1,9 @@
+﻿bin/
+obj/
+*.user
+*.suo
+.idea/
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
